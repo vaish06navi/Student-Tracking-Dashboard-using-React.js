@@ -1,7 +1,8 @@
-.App {
-  padding: 20px;
+/* App.css */
+.sidebar-col {
+  padding: 0;
 }
 
-h4 {
-  margin-bottom: 20px;
+.content-col {
+  padding: 20px;
 }
